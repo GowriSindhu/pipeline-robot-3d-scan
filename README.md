@@ -11,7 +11,7 @@ A low-cost IoT-enabled robot for pipeline inspection using real-time video strea
 
 ## 📷 Project Preview
 
-![Pipeline Robot Output](images/output_preview.jpg) <!-- Replace this image -->
+![Pipeline Robot Output](robot_output.jpg) <!-- Replace this image -->
 
 ---
 
